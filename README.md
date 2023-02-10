@@ -12,6 +12,22 @@ O <strong>Alurinha</strong> é um projeto criado no curso Flexbox: posicione ele
 
 ---
 
+## ✅ Demonstração da aplicação
+
+### 💻 Desktop
+
+<h1 align="center">
+  <img alt="Layout do Alurinha para Desktop" title="Layout do Alurinha para Desktop" src="layouts/alurinha-layout-desktop.png" />
+</h1>
+
+### 📱 Mobile
+
+<h1 align="center">
+  <img alt="Layout do Alurinha para Mobile" title="Layout do Alurinha para Mobile" src="layouts/alurinha-layout-mobile.png" />
+</h1>
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -42,5 +58,5 @@ O <strong>Alurinha</strong> é um projeto criado no curso Flexbox: posicione ele
 |_Gleison Fernandes_|
 |---|
 |<img src="https://avatars.githubusercontent.com/u/58518724?v=4" width="140">|
-|_*Desenvolvedor*_|
+|_Desenvolvedor_|
 |[<img src="https://docs.github.com/assets/cb-600/images/site/favicon.png" width="24"/>](https://github.com/gleisonfernandes)  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>](https://www.linkedin.com/in/gleison-fernandes-da-silva-54b907105/)  [<img src="https://user-images.githubusercontent.com/88353298/163483362-a3b1e4fe-5d03-46a9-ad93-4fcc7af98a9f.png" width="24"/>](gleison.fernandesb@gmail.com)|
